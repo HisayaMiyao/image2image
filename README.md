@@ -16,7 +16,7 @@ for example,
 <br>
 `python image2image.py images_jpg .jpg .png`
 <br>
-then a directry named result will be created and converted images will be put in.
+then a directry named `result` will be created and converted images will be put in.
 
 ## available formats
 *.bmp .dib .eps .gif .hdr .ico .im .jp2 .jpe .jpeg .jpg .pbm .pcx .pdf .pgm .pic .png .pnm .ppm .pxm .ras .sgi .sr .tif .tiff .webp*
