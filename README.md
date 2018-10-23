@@ -14,6 +14,6 @@ for example, `python image2image.py images_jpg .jpg .png`
 then a directry named result will be created and converted images will be put in.
 
 ## available formats
-**.bmp .dib .hdr .jp2 .jpe .jpeg .jpg .pbm .pgm .pic .png .pnm .ppm .pxm .ras .sr .tif .tiff .webp .bmp .eps .gif .ico .im .jpeg .pcx .png .sgi .pdf **
+* .bmp .dib .hdr .jp2 .jpe .jpeg .jpg .pbm .pgm .pic .png .pnm .ppm .pxm .ras .sr .tif .tiff .webp .bmp .eps .gif .ico .im .jpeg .pcx .png .sgi .pdf *
 
 can be transfomed each other.
