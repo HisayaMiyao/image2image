@@ -19,6 +19,6 @@ for example,
 then a directry named result will be created and converted images will be put in.
 
 ## available formats
-*.bmp .dib .eps .gif .hdr .ico .im .jp2 .jpe .jpeg .jpg .pbm .pcx .pdf .pgm .pic .png .pnm .ppm .pxm .ras .sgi .sr .tif .tiff .webp  *
+*.bmp .dib .eps .gif .hdr .ico .im .jp2 .jpe .jpeg .jpg .pbm .pcx .pdf .pgm .pic .png .pnm .ppm .pxm .ras .sgi .sr .tif .tiff .webp*
 
 can be transfomed each other.
