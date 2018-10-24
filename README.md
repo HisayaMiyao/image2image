@@ -10,7 +10,7 @@ python3 program for converting format of images including .pdf using Pillow(PIL)
 ## how to use
 download this directry and run image2image.py with arguments like;
 <br>
-`python image2image.py {directry_name} {before_format} {after_format}`
+`python image2image.py {directry_path} {before_format} {after_format}`
 <br>
 for example, 
 <br>
